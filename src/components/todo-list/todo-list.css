@@ -1,0 +1,10 @@
+.MuiPaper-rounded{
+    display:flex;
+    justify-content:center;
+}
+.MuiButton-contained{
+    width:55%
+}
+.MuiTable-root {
+    width: 50% !important;
+}

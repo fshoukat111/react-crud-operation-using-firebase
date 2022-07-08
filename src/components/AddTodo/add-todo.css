@@ -1,0 +1,13 @@
+.form-container{
+    display: flex;
+    justify-content: center;
+}
+.MuiGrid-item{
+    padding:10px
+}
+.MuiGrid-container{
+    width:600px !important
+}
+.MuiTextField-root{
+    width:550px
+}
